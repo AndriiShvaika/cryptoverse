@@ -17,6 +17,7 @@ The project was made using these technologies:
 
 - TypeScript
 - ReactJS (useState, useEffect)
+- Redux Toolkit
 - Ant Design
 - React Router
 - HTML layout
