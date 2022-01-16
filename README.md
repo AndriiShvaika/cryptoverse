@@ -1,6 +1,6 @@
 # Cryptoverse app
 
-You can see the app by the link: https://app.netlify.com/sites/cryptoverse-pet-project/overview
+You can see the app by the link: https://cryptoverse-pet-project.netlify.app/
 
 To run this project, you need to install required modules with command:
 
